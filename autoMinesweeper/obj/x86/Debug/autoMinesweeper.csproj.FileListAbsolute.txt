@@ -1,0 +1,5 @@
+C:\Users\eple\documents\visual studio 2010\Projects\autoMinesweeper\autoMinesweeper\bin\Debug\autoMinesweeper.exe
+C:\Users\eple\documents\visual studio 2010\Projects\autoMinesweeper\autoMinesweeper\bin\Debug\autoMinesweeper.pdb
+C:\Users\eple\documents\visual studio 2010\Projects\autoMinesweeper\autoMinesweeper\obj\x86\Debug\autoMinesweeper.exe
+C:\Users\eple\documents\visual studio 2010\Projects\autoMinesweeper\autoMinesweeper\obj\x86\Debug\autoMinesweeper.pdb
+C:\Users\eple\documents\visual studio 2010\Projects\autoMinesweeper\autoMinesweeper\obj\x86\Debug\autoMinesweeper.csprojResolveAssemblyReference.cache
